@@ -3,8 +3,8 @@ title: "UWHeart: Periodicity-Driven Contact-free Heartbeat Rate Estimation Based
 collection: publications
 category: conferences
 permalink: /publication/1-UWHeart
-venue: 'BIBM'
 date:2024
+venue: 'BIBM'
 paperurl: 'https://cyjuejuezi.github.io/yangcao.github.io/files/paper1.pdf'
 citation: 'Cao, Yang, et al. "UWHeart: Periodicity-Driven Contact-free Heartbeat Rate Estimation Based on IR-UWB Technology." 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2024.'
 ---
