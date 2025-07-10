@@ -1,7 +1,7 @@
 ---
 title: "UWHeart: Periodicity-Driven Contact-free Heartbeat Rate Estimation Based on IR-UWB Technology"
 collection: publications
-#category: manuscripts
+category: conferences
 permalink: /publication/1-UWHeart
 venue: 'Conference 1'
 paperurl: 'https://cyjuejuezi.github.io/yangcao.github.io/files/paper1.pdf'
