@@ -40,7 +40,6 @@ Project Experience
 ### Benchmarking Computational Methods for Emerging Drug-Drug Interaction Prediction
 * Proposed a benchmark for drug-drug interaction prediction, to systematically evaluate model robustness against chemical space distribution shifts via controlled simulations;
 * Conducted data partitioning in real scenarios and completed the verification of DDI task distribution shifts in real scenarios.
-* **As the second author, our paper titled ‘Benchmarking Computational Methods for Emerging Drug-Drug Interaction Prediction’ has been submitted to Neurips 2025 （CCF-A Conference）**.
   
 Competition Awards
 ======
